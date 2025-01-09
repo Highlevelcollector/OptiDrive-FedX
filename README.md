@@ -4,10 +4,6 @@ Overview
 
 This project addresses the critical challenges in logistics and transportation by optimizing vehicle routes to ensure timely deliveries while minimizing environmental impact. The solution leverages real-time data and advanced analytics to provide efficient, sustainable, and user-friendly routing options.
 
-Problem Statement
-
-FedEx aims to develop an advanced dynamic routing system that integrates real-time traffic, weather, and vehicle data to recommend the most efficient routes. Additionally, the system estimates vehicle emissions for each route to help reduce the company's carbon footprint.
-
 Objectives
 
 Build a Python-based dynamic routing system using real-time data from multiple APIs.
